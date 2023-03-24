@@ -43,6 +43,8 @@ Add:
  - Descriptions of your potential projects. Feel free to list them out [1), 2), 3),...] or provide a longer description.
  - Who is on your team
 
+**The LIS Hypoxia Prediction Team** is a team composed of [EPA CEMM](https://www.epa.gov/aboutepa/about-center-environmental-measurement-and-modeling-cemm) and [Long Island Sound Study](https://longislandsoundstudy.net/) members, including two ORISE fellows. This team's focus will be on creating a model specific to the Long Island Sound for predicting hypoxia from prior years of data and other relevant parameters. We will make every attempt to incorporate Open Science principles into our work by 1) Clearly indicating all data inputs used and how they are processed, 2) Building the model in a github repository and tracking its progress therein, allowing all team members to contribute ideas and tweaks to improve accuracy, 3) Ultimately automating the data inflows to the model as much as possible using public facing apis from monitoring organizations, and 4) Publicizing the model with a straightforward explanation and visuals to aid in understanding its prediction mechanism.
+
 
 ## Openscapes team
 
